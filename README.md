@@ -30,7 +30,7 @@ Rozszerzenie problemu przepływowego o kryterium ekonomiczne. Każda krawędź w
 
 ---
 
-## 📁 Zawartość repozytorium
+##  Zawartość repozytorium
 
 * `fordfulkerson.pdf` — Pełna dokumentacja projektowa zawierająca opisy matematyczne, rysunki grafów, przykłady obliczeniowe krok po kroku oraz szczegółową analizę złożoności obliczeniowej.
 
